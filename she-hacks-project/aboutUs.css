@@ -1,0 +1,65 @@
+/* Global styles */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header styles */
+
+
+/* Main styles */
+main {
+    padding: 20px 0;
+}
+
+.about-intro {
+    /* background-color: #f9f9f9; */
+    padding: 50px 0;
+    text-align: center;
+}
+
+.about-intro h1 {
+    color: #fff; /* Set font color to white */
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.about-intro p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.mission {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.mission h2 {
+    color: #fff; /* Set font color to white */
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.mission p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Footer styles */
+footer {
+    background-color: black;
+    color: white; /* Set font color to white */
+    padding: 5px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+footer .center {
+    color: #fff; /* Set font color to white */
+    text-align: center;
+}
